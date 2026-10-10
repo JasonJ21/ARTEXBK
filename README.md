@@ -452,13 +452,13 @@ flowchart TB
 
 ---
 
-## 交流群
+## 联系我们
 
-扫码关注微信公众号 **SecSentry**，在公众号后台私信即可入群交流。
+扫码关注微信公众号 **知白守黑1024**，后台私信即可交流。
 
 <div align="center">
 
-<img src="screenshots/wx.png" alt="微信公众号 SecSentry" width="480" />
+<img src="screenshots/wx.png" alt="微信公众号 知白守黑1024" width="300" />
 
 </div>
 
